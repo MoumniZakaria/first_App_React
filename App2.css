@@ -1,0 +1,35 @@
+.Logo{
+    display: flex;
+}
+ .logo1{
+    
+    width: 50px;
+    margin: 25px;
+    
+}
+.logo2{
+    
+    margin-top: 50px;
+    width :150px;
+    height:auto;
+    position: relative;
+    bottom: 25px;
+    right: 20px;
+}
+.mini1{
+    width: 10%;
+    height: 100vh;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.2), 0px 3px 4px rgba(0, 0, 0, 0.12), 0px 2px 4px rgba(0, 0, 0, 0.14);
+    transform: rotate(-90deg);
+}
+.link{
+    display: flex;
+    margin: 30px;
+    align-items: center;
+    color: black;
+
+}
+.icon , .link{
+    margin-right: 10px;
+    text-decoration: none;
+}
